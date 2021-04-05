@@ -1,0 +1,9 @@
+{
+  "name": "samoyed-frontend",
+  "version": "0.0.1",
+  "description": "frontend app",
+  "main": "app.js",
+  "repository": "git@github.com:Samoyed-finance/samoyed-frontend.git",
+  "author": "whai kung <n.ratanasuwan@gmail.com>",
+  "license": "GNU"
+}
